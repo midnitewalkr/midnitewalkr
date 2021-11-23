@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @midnitewalkr. I'm here.
+- 👀 I’m interested in coding or all kinds.
+- 🌱 I’m currently learning how to not be awake at midnight. Without success.
+- 💞️ I’m looking to collaborate on sleep patterns, and if that fails, javascript projects.
